@@ -3,8 +3,8 @@ from spotipy.oauth2 import SpotifyOAuth, SpotifyClientCredentials
 import os
 from dotenv import load_dotenv
 
-# CLIENT_ID = '9688e06282ff4043a95d46dee1f7467d'
-# CLIENT_SECRET = '98e65a15f19d42debe76aa78a6bec694'
+# CLIENT_ID = ''
+# CLIENT_SECRET = ''
 # REDIRECT_URI = 'http://localhost:8888'
 
 # CLIENT_ID = os.environ.get('spotifyClientID')
